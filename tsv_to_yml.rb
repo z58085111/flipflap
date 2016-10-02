@@ -1,5 +1,4 @@
 #!/usr/bin/env ruby
-
 require_relative 'flip_flap'
 
 usage = 'Usage:  tsv_to_yml [TSV_file] [YML_file]\n'
